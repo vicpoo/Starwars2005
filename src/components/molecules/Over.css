@@ -1,0 +1,9 @@
+#main {
+    font-size: 50px;
+    height: 10%;
+    justify-content: center;
+    display: flex;
+    font-weight: bold;
+    color: white;
+    background-image: url("public/pictures/img04.jpg");
+}

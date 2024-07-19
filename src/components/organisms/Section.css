@@ -1,0 +1,14 @@
+#main_container{
+    margin: 10vh;
+    border: 3px solid #566981 ;
+    border-radius: 13px;
+
+}
+
+#cards_container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #566981;
+}
