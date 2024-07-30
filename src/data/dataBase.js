@@ -8,7 +8,7 @@ const mySQL = {
 
     cards : [
         {
-            image: 'public/img07.avif',
+            image: 'public/ojosamarillos.avif',
             text: 'Episodio I: La Amenaza Fantasma  Los Jedi descubren al joven Anakin Skywalker y luchan contra el Sith Darth Maul',
         },
         {
